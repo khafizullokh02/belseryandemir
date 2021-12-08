@@ -1,4 +1,4 @@
-### Halo I'm Demir and I'm glat that ur here 👋
+### Halo I'm Demir and I'm glat that ur here! 👋
 
 <!--
 **belseryandemir/belseryandemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
